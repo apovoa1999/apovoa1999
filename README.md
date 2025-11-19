@@ -1,5 +1,5 @@
 
-### Olá! I'm Ana 🙋🏻‍♀️
+### Olá! I'm Ana!
 
 I'm a **Computer Science Student** at **Western Connecticut State University (WCSU)**. Originally from **Brazil**, I am passionate about desbraving (exploring and conquering) the world of coding and life abroad! My academic path is powered by a focus on transforming complex data into actionable insights.
 
@@ -16,7 +16,7 @@ My current focus is on building a robust foundation in database management and d
 
 ---
 
-### 🛠️ Tools/Languages 
+### Tools/Languages 
 
 | **Language:**  SQL (PostgreSQL, MySQL), Python (Pandas, ETL), Java, HTML
 | **Database:** Google BigQuery, PostgreSQL, MySQL 
@@ -34,5 +34,5 @@ I designed and implemented a **fully normalized PostgreSQL database** to manage 
 
 ---
 
-### 💻 Connect with Me 
+### Connect with Me 
 LinkedIn: www.linkedin.com/in/analuisapovoadesouza
