@@ -18,7 +18,7 @@ My current focus is on building a robust foundation in database management and d
 
 ### Tools/Languages 
 
-SQL (PostgreSQL, MySQL), Python (Pandas, ETL), Java, HTML, PostgreSQL, MySQL, Docker, Git/GitHub, VS Code / Azure Data Studio 
+SQL (PostgreSQL, MySQL), Python (Pandas, ETL), Java, HTML, Docker, Git/GitHub, VS Code / Azure Data Studio 
 
 ---
 ### Projects: 
